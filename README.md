@@ -1,0 +1,2 @@
+# StateWareHouseCorporation
+Using Model View Design (MVC) pattern I have created State Warehouse Corporation project .in this project we can apply some SQL operatins in MYSql database and we can send the all transactions details report to the other warehouses. Used technology 1.Java Servlet ( as Controller) 2.JSP(as View) 3.JDBC save/fetch(model) Software Requirement 1. Any browser 2.Netbeans IDE 11.1 3.Tomcat Server 4.Mysql.
